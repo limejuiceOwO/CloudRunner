@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CloudRunner</string>
+    <string name="title_activity_main">CloudRunner</string>
+
+    <string name="module_not_started">XPosed Module is inactive.Please enable it in XPosed Installer.</string>
+    <string name="calculating_route">Calculating running route&#8230;</string>
+    <string name="calculation_succeed">Calculation succeed.</string>
+    <string name="calculation_failed">Failed to calculate route,using lines instead.</string>
+    <string name="route_set">Running route set.</string>
+    <string name="route_set_default">Running route set to start point.</string>
+    <string name="route_cleared">Running route cleared.</string>
+    <string name="route_cleared_default">Running route cleared,relocating to start point.</string>
+    <string name="settings">Settings</string>
+    <string name="distance">Distance:</string>
+    <string name="na">N/A</string>
+</resources>
